@@ -1,5 +1,5 @@
 month = int(input('Enter month number between 1-12: '))
-
+#Prints the corresponding quarter
 if month < 1 or month > 12:
     print('Error: Number must be between 1 and 12.')
 else:
