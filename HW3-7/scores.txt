@@ -1,0 +1,6 @@
+All scores: 
+20.00
+40.00
+30.00
+
+Average score (without lowest):  35.00
