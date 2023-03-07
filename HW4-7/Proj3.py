@@ -1,4 +1,4 @@
-# HW 4-7 Project 2
+# HW 4-7 Project 3
 # Author: Paul Takemoto
 
 test_tup = ([17, 28], [93, 11], [20, 17])
