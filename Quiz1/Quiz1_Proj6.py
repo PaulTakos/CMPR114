@@ -23,11 +23,11 @@ while score_avg > 100:
 # Assigns letter grade to average
 if score_avg >= 90 and score_avg <= 100:
     print('Letter grade: A')
-elif score_avg >= 80 and score_avg <= 89:
+elif score_avg >= 80 and score_avg < 90:
     print('Letter grade: B')
-elif score_avg >= 70 and score_avg <= 79:
+elif score_avg >= 70 and score_avg < 80:
     print('Letter grade: C')
-elif score_avg >= 60 and score_avg <= 69:
+elif score_avg >= 60 and score_avg < 70:
     print('Letter grade: D')
 else:
     print('Letter grade: F')
