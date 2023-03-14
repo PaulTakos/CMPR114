@@ -2,19 +2,18 @@
 # Author: Paul Takemoto
 
 def main():
-    # Asks user for number of birds in Texas and California.
-    birds_tx = int(input('Enter number of birds in Texas: '))
-    birds_ca = int(input('Enter number of birds in California: '))
-    texas(birds_tx)
-    california(birds_ca)
+    texas()
+    california()
 
-def texas(num_birds):
-    birds = num_birds
+def texas():
+    # Asks user for number of birds in Texas.
+    birds = int(input('Enter number of birds in Texas: '))
     print(f'Texas has {birds} birds.')
 
-def california(num_birds):
-    birds = num_birds
+def california():
+    # Asks user for number of birds in California.
+    birds = int(input('Enter number of birds in California: '))
     print(f'California has {birds} birds.')
 
-# main function
+# Calls main function
 main()
