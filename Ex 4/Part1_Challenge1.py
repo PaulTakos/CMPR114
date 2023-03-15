@@ -1,4 +1,5 @@
-# Exercise 4 Challenge 1
+# Exercise 4
+# Part 1 Challenge 1
 # Author: Paul Takemoto
 
 def main():
