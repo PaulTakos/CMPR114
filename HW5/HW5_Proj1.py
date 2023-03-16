@@ -2,6 +2,8 @@
 # Author: Paul Takemoto
 
 def main():
+    # Asks user to input actual property value, then calls functions to
+    # calculate assessment value and property tax.
     value_actual = float(input('Enter actual property value: '))
     value_assessment = get_assessment_value(value_actual)
     tax_prop = get_property_tax(value_assessment)
