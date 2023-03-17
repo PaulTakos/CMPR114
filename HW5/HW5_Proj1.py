@@ -1,4 +1,4 @@
-# HW 5 Proj 1
+# HW 5 Project 1
 # Author: Paul Takemoto
 
 def main():
