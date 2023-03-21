@@ -6,9 +6,9 @@ lastname = input('Enter your last name: ')
 age = int(input('Enter your age: '))
 
 info_file = open('info.txt', 'w')
-info_file.write(firstname)
-info_file.write('\n' + lastname)
-info_file.write('\n' + str(age))
+info_file.write('First Name: ', firstname)
+info_file.write('\nLast Name: ', lastname)
+info_file.write('\nAge: ', str(age))
 
 info_file.close()
 print('\nInformation written to file \'info.txt\'')
