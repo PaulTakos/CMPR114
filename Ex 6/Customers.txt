@@ -1,0 +1,10 @@
+
+Confirmation: Princeton, Rayn
+1132 Main St
+Santa Ana, CA 92705
+Confirmation: Doe, John
+1234 SE Skyline Dr.
+Santa Ana, CA 92705
+Confirmation: Buck, Edward
+355 Castle St.
+Las Vegas, Nevada 12345

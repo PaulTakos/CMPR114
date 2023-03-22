@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7811e439-64fa-4548-a88b-a852f0b14f2b" name="Changes" comment="Initial commit (project 2) and format fix (project 1)">
-      <change afterPath="$PROJECT_DIR$/Challenge3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Challenge4.py" afterDir="false" />
+    <list default="true" id="7811e439-64fa-4548-a88b-a852f0b14f2b" name="Changes" comment="Fixes, and initial commit of Project 4">
+      <change afterPath="$PROJECT_DIR$/Challenge5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Challenge1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/numbers.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,12 +60,27 @@
       <option name="project" value="LOCAL" />
       <updated>1679371417032</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixes, and initial commit of Project 4">
+      <created>1679439448905</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679439448905</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixes, and initial commit of Project 4">
+      <created>1679439459540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679439459540</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Challenge 1 re-commit" />
     <MESSAGE value="Initial commit (project 2) and format fix (project 1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit (project 2) and format fix (project 1)" />
+    <MESSAGE value="Fixes, and initial commit of Project 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes, and initial commit of Project 4" />
   </component>
 </project>
