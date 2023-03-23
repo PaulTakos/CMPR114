@@ -30,8 +30,9 @@ def quit():
     win.destroy()  # closes interface
 
 def submit():
+    # Added street address, city, state, and zipcode to display
     messagebox.showinfo('Information', 'Entered: ' + LN.get() + ', ' + FN.get() + '\n' +
-                        SA.get() + '\n' + CT.get() + ', ' + ST.get() + ' ' + ZP.get())  # display info
+                        SA.get() + '\n' + CT.get() + ', ' + ST.get() + ' ' + ZP.get())  # displays info
 
 # LN = lastname, FN = firstname, SA = street address, CT = city, ST = state, ZP = zipcode
 LN = tk.StringVar()

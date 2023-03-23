@@ -1,0 +1,4 @@
+
+The three numbers are 33.5, 20.1, and 46.72
+The total is 100.32
+The average is 33.44
