@@ -26,7 +26,7 @@ def write_grades():
 
     grades_file.write('Name: ' + name + '\n')
     grades_file.write('Average score: ' + str(format(score_avg, '.2f')) + '\n')
-    grades_file.write('Average grade: ' + grade_avg)
+    grades_file.write('Average grade: ' + grade_avg + '\n')
 
     grades_file.close()
 

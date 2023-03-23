@@ -1,3 +1,9 @@
 Name: Paul Takemoto
-Average score: 96.75
+Average score: 84.25
+Average grade: B
+Name: Rayn Princeton
+Average score: 92.70
 Average grade: A
+Name: John Doe
+Average score: 85.25
+Average grade: B
