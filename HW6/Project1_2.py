@@ -2,9 +2,11 @@
 # Author: Paul Takemoto
 
 def main():
-    output_file = open('things.txt', 'r')
+    output_file = open('things.txt', 'r')  # Opens a file for reading
+
+    # Uses a while loop to read and print each line from file
     line = output_file.readline().rstrip()
-    while line != '':
+    while line != '':  # Ensures that file is read until blank is encountered
         print(line)
         line = output_file.readline().rstrip()
 
