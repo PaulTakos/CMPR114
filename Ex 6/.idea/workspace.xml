@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7811e439-64fa-4548-a88b-a852f0b14f2b" name="Changes" comment="Initial commit (project 8)">
-      <change afterPath="$PROJECT_DIR$/../HW6/Project1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW6/Project1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW6/Project2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW6/numbers.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
