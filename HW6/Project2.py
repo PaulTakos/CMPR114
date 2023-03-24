@@ -8,6 +8,7 @@ win = tk.Tk()  # creates window interface
 win.geometry("300x100")  # dimensions in pixels
 win.title("Sum calculation")
 
+#
 def run():
     total = 0.0
     num_file = open('numbers.txt', 'r')
