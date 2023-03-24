@@ -3,9 +3,9 @@
 import random
 
 def write_num():
-    num_file = open('random_numbers.txt', 'a')
+    num_file = open('random_numbers.txt', 'a')  # Opens file for appending
 
-    # Generates 3 random numbers between 1-10 for each run, and appends to file.
+    # Using for loop, generates 3 random numbers between 1-10 for each run, and appends to file.
     for val in range(0, 3):
         num = random.randint(1, 10)
         num_file.write(str(num) + '\n')
@@ -13,9 +13,9 @@ def write_num():
     num_file.close()
 
 def read_num():
-    num_file = open('random_numbers.txt', 'r')
+    num_file = open('random_numbers.txt', 'r')  # Opens file for reading
 
-    # Reads each line from the file and prints them.
+    # Reads each line from the file and prints them using while loop.
     line = num_file.read().rstrip()
     while line != '':
         print(line)

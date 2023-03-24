@@ -7,3 +7,6 @@ Average grade: A
 Name: John Doe
 Average score: 85.25
 Average grade: B
+Name: Edward Buck
+Average score: 90.00
+Average grade: A

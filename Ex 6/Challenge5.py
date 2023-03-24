@@ -35,6 +35,7 @@ def submit():
                         SA.get() + '\n' + CT.get() + ', ' + ST.get() + ' ' + ZP.get())  # displays info
 
 # LN = lastname, FN = firstname, SA = street address, CT = city, ST = state, ZP = zipcode
+# Input entry boxes for each info
 LN = tk.StringVar()
 txtLastName = tk.Entry(win, width=12, textvariable=LN).grid(column=1, row=0)
 FN = tk.StringVar()
@@ -48,6 +49,7 @@ txtState = tk.Entry(win, width=12, textvariable=ST).grid(column=1, row=4)
 ZP = tk.StringVar()
 txtZipcode = tk.Entry(win, width=12, textvariable=ZP).grid(column=1, row=5)
 
+# Buttons to submit, quit, and transfer to file
 btnSubmit = tk.Button(win, text='Submit', command=submit).grid(column=0, row=6)
 btnQuit = tk.Button(win, text='Quit', command=quit).grid(column=1, row=6)
 btnWrite = tk.Button(win, text='Transfer', command=write).grid(column=2, row=6)

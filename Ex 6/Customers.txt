@@ -6,5 +6,5 @@ Confirmation: Doe, John
 1234 SE Skyline Dr.
 Santa Ana, CA 92705
 Confirmation: Buck, Edward
-355 Castle St.
-Las Vegas, Nevada 12345
+1234 E Waterfront Hwy
+Las Vegas, NV 54321
