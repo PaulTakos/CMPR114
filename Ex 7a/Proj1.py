@@ -1,4 +1,4 @@
-# Exercise 7a Project 1a
+# Exercise 7a Project 1
 # Author: Paul Takemoto
 
 def main():
