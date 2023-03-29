@@ -1,3 +1,5 @@
+# Exercise 7a Project 4
+# Paul Takemoto
 
 def main():
     csv_file = open('test_scores.csv', 'r')

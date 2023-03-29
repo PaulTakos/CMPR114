@@ -1,4 +1,5 @@
-
+# Exercise 7a Project 3
+# Paul Takemoto
 
 def main():
     str1 = 'one two three four'

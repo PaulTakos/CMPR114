@@ -1,3 +1,5 @@
+# Exercise 7a Project 5
+# Paul Takemoto
 
 def main():
     # Variable to hold the count - starts at 0
