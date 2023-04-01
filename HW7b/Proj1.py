@@ -1,3 +1,6 @@
+# HW 7b Project 1
+# Paul Takemoto
+
 # This program uses a dictionary as a deck of cards.
 import random
 
