@@ -17,3 +17,4 @@ Galapagos Medium,20-001,6.85
 Guatemalan Dark,21-001,9.95
 Guatemalan Decaf,21-002,10.45
 Guatemalan Medium,21-003,9.95
+Java,99-8888,9.88
