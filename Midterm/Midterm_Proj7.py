@@ -10,6 +10,7 @@ def main():
                    [7, 8],
                    [9, 10]]
 
+    # Compares each number to lucky number. If equal, prints the number and index.
     for list_component in num_list_2d:
         for num in list_component:
             if num == LUCKY_NUM:

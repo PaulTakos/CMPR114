@@ -2,8 +2,9 @@
 # Paul Takemoto
 
 def main():
-    coffee_file = open('Coffee.txt', 'r')
+    coffee_file = open('Coffee.txt', 'r')  # Opens file for reading
 
+    # Uses a while loop
     line = coffee_file.readline()
     while line != '':
         print(line)
