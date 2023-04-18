@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7811e439-64fa-4548-a88b-a852f0b14f2b" name="Changes" comment="Added comments to all projects">
-      <change afterPath="$PROJECT_DIR$/../Midterm/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/.idea/Midterm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/Coffee.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/Midterm_Proj1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/Midterm_Proj2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/Midterm_Proj3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm/Midterm_Proj4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Gourd Crab Fish game/Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
