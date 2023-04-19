@@ -14,7 +14,7 @@ class Teacher:
         print('Course: ' + self.course)
 
 Teacher1 = Teacher('Prof. Sim', 'A206', 'Python Programming')
-Teacher2 = Teacher('Prof. Huynh', 'A223', 'Python Programming')
+Teacher2 = Teacher('Prof. Princeton', 'A223', 'Music Theory')
 
 Teacher1.GetProfessor()
 Teacher2.GetProfessor()
