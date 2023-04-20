@@ -15,7 +15,7 @@ PersonalInformation.City = input('Enter your city: ')
 PersonalInformation.State = input('Enter your state: ')
 PersonalInformation.Zipcode = int(input('Enter your zipcode: '))
 
-# Prints out each info using GetInformation function and passing in the resepctive arguments
+# Prints out each info using GetInformation function and passing in the respective arguments
 print(PersonalInformation.GetInformation(PersonalInformation.LastName, PersonalInformation.FirstName,
                                          PersonalInformation.Age, PersonalInformation.Address,
                                          PersonalInformation.City, PersonalInformation.State,
