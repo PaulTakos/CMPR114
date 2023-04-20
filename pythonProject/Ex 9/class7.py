@@ -1,4 +1,4 @@
-# Customer class - creates functions and objects
+# Customer class - creates functions and objects (Project 4)
 
 class Customer:
     def __init__(self, name, address, phone, age, city, state, zipcode):
@@ -19,6 +19,7 @@ class Customer:
     def set_phone(self, phone):
         self.__phone = phone
 
+    # Functions to set customer's age, city, state, and zipcode
     def set_age(self, age):
         self.__age = age
 

@@ -13,6 +13,7 @@ class Teacher:
         print('Class: ' + self.classroom)
         print('Course: ' + self.course)
 
+# new Teacher objects, each with 3 arguments (name, classroom, course)
 Teacher1 = Teacher('Prof. Sim', 'A206', 'Python Programming')
 Teacher2 = Teacher('Prof. Princeton', 'A223', 'Music Theory')
 

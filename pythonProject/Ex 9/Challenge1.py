@@ -2,7 +2,7 @@
 # Paul Takemoto
 
 class Students:
-    # the keyword (self)
+    # the keyword (self) - used to access variables from that class
     def GetInformation(self):
         print("Last name: " + self.LastName)
         print("First name: " + self.FirstName)
@@ -38,6 +38,7 @@ Student3.City = input('Enter new student\'s city: ')
 Student3.State = input('Enter new student\'s state: ')
 Student3.Zipcode = input('Enter new student\'s zipcode: ')
 
+# Calling the functions
 Student1.GetInformation()
 Student2.GetInformation()
 Student3.GetInformation()

@@ -17,12 +17,13 @@ def main():
     v1 = class7.Customer.set_name = name
     v2 = class7.Customer.set_address = address
     v3 = class7.Customer.set_phone = phone
-
+    # Also calls functions to set age, city, state, and zipcode
     v4 = class7.Customer.set_age = age
     v5 = class7.Customer.set_city = city
     v6 = class7.Customer.set_state = state
     v7 = class7.Customer.set_zipcode = zipcode
 
+    # Prints information retrieved from Customer object
     print('Hello, ' + v1 + ', your address is ' + v2 + ' and your phone # is ' + v3)
     print('Your age is ' + v4 + ' and you live in ' + v5 + ', ' + v6 + ' ' + v7)
 
