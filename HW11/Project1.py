@@ -14,7 +14,7 @@ def main():
     v2 = my_pet.set_animal_type = animal_type
     v3 = my_pet.set_age = age
 
-    print('Your pet,' + v1 + ', is a ' + str(v3) + ' year old ' + v2)
+    print('Your pet, ' + v1 + ', is a ' + str(v3) + ' year old ' + v2)
 
 if __name__ == '__main__':
     main()
