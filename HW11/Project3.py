@@ -4,6 +4,7 @@
 import Retail_data
 
 def main():
+    # Creates 3 RetailItem objects with info filled in
     item1 = Retail_data.RetailItem('Jacket', 12, 59.95)
     item2 = Retail_data.RetailItem('Designer jeans', 40, 34.95)
     item3 = Retail_data.RetailItem('Shirt', 20, 24.95)

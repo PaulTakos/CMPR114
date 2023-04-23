@@ -4,6 +4,7 @@
 import Employee_data
 
 def main():
+    # Creates 3 Employee objects w/ info filled in
     employee1 = Employee_data.Employee('Susan Meyers', '47899', 'Accounting', 'Vice President')
     employee2 = Employee_data.Employee('Mark Jones', '39119', 'IT', 'Programmer')
     employee3 = Employee_data.Employee('Joy Rogers', '81774', 'Manufacturing', 'Engineer')
