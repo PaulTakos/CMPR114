@@ -1,4 +1,4 @@
-# RetailItem class
+# RetailItem class (Project  3)
 
 class RetailItem:
     def __init__(self, description, quantity, price):
