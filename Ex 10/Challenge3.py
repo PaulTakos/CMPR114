@@ -4,7 +4,7 @@
 import vehicles
 
 def main():
-    used_car = vehicles.Automobiles('Audi', 2022, 45000, 80000.0)
+    used_car = vehicles.Automobiles('Audi', 2022, 45000, 80000.0, 4)
     print('Car 1 Make: ', used_car.get_make())
     print('Car 1 Model: ', used_car.get_model())
     print('Car 1 Mileage: ', used_car.get_mileage())
@@ -12,7 +12,7 @@ def main():
 
     print()
 
-    new_car = vehicles.Automobiles('Honda', 2022, 55000, 85000.0)
+    new_car = vehicles.Automobiles('Honda', 2022, 55000, 85000.0, 4)
     print('Car 2 Make: ', new_car.get_make())
     print('Car 2 Model: ', new_car.get_model())
     print('Car 2 Mileage: ', new_car.get_mileage())
