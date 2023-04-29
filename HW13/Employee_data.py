@@ -1,4 +1,4 @@
-# Employee class (Project 7)
+# Employee class (Project 1)
 
 class Employee:
     def __init__(self, name, number):
