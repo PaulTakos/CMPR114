@@ -11,7 +11,7 @@ class MyGUI:
         self.label1 = tkinter.Label(self.main_window, text='Hello world!', borderwidth=1, relief='solid')
         self.label2 = tkinter.Label(self.main_window, text='This is my GUI program.', borderwidth=2, relief='solid')
         self.label3 = tkinter.Label(self.main_window, text='You can do this.', borderwidth=1, relief='solid')
-        self.label4 = tkinter.Label(self.main_window, text='I believe you.', borderwidth=2, relief='solid')
+        self.label4 = tkinter.Label(self.main_window, text='This is great!', borderwidth=2, relief='solid')
 
         self.label1.pack(ipadx=20, ipady=20)
         self.label2.pack(ipadx=20, ipady=20)
